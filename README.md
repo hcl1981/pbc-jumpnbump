@@ -227,3 +227,10 @@ unter der GPL v2+.
 
 Copyright (C) 1998 Brainchild Design — <http://brainchilddesign.com/>
 Portierungen: Chuck Mason, Florian Schulze, Côme Chilliet u. a.
+
+## Herkunft und Download
+
+Teil der Sammlung für den PicoBoy Color Plus; Übersicht und
+Hardware-Referenz: [pbc-plus](https://github.com/hcl1981/pbc-plus). Die fertige Firmware
+(jumpnbump.uf2) liegt unter **Releases**. `./build.sh` baut nach `dist/`;
+Werkzeuge und SDK siehe [`docs/BAUEN.md`](docs/BAUEN.md).
